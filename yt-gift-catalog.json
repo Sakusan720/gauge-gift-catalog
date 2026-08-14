@@ -1,0 +1,845 @@
+{
+  "updatedAt": 1784693109335,
+  "gifts": [
+    {
+      "slug": "plus_one",
+      "name": "+1",
+      "jewels": 2,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/plus_one.png=w480-h480"
+    },
+    {
+      "slug": "sorena",
+      "name": "それな",
+      "jewels": 2,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/sorena.png=w480-h480"
+    },
+    {
+      "slug": "sparkles",
+      "name": "キラキラ",
+      "jewels": 2,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/sparkles.png=w480-h480"
+    },
+    {
+      "slug": "",
+      "name": "ピース",
+      "jewels": 2,
+      "image": ""
+    },
+    {
+      "slug": "",
+      "name": "星",
+      "jewels": 2,
+      "image": ""
+    },
+    {
+      "slug": "bow",
+      "name": "一礼",
+      "jewels": 3,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/bow.png=w480-h480"
+    },
+    {
+      "slug": "gg_taiotsu",
+      "name": "対おつ",
+      "jewels": 5,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/gg_taiotsu.png=w480-h480"
+    },
+    {
+      "slug": "smile",
+      "name": ":D",
+      "jewels": 5,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/smile.png=w480-h480"
+    },
+    {
+      "slug": "x_x",
+      "name": "X_X",
+      "jewels": 5,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/x_x.png=w480-h480"
+    },
+    {
+      "slug": "chili",
+      "name": "唐辛子",
+      "jewels": 6,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/chili.png=w480-h480"
+    },
+    {
+      "slug": "surprise",
+      "name": "驚き",
+      "jewels": 6,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/surprise.png=w480-h480"
+    },
+    {
+      "slug": "",
+      "name": "マイク(ミニ)",
+      "jewels": 6,
+      "image": ""
+    },
+    {
+      "slug": "",
+      "name": "感謝",
+      "jewels": 7,
+      "image": ""
+    },
+    {
+      "slug": "gold_coin",
+      "name": "金貨",
+      "jewels": 10,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/gold_coin.png=w480-h480"
+    },
+    {
+      "slug": "heart",
+      "name": "ハート",
+      "jewels": 10,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/heart.png=w480-h480"
+    },
+    {
+      "slug": "orange",
+      "name": "オレンジ",
+      "jewels": 10,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/orange.png=w480-h480"
+    },
+    {
+      "slug": "press_f",
+      "name": "F キーを押す",
+      "jewels": 10,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/press_f.png=w480-h480"
+    },
+    {
+      "slug": "bday_hat",
+      "name": "パーティー ハット",
+      "jewels": 20,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/bday_hat.png=w480-h480"
+    },
+    {
+      "slug": "ggez",
+      "name": "GGEZ",
+      "jewels": 20,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/ggez.png=w480-h480"
+    },
+    {
+      "slug": "donut",
+      "name": "ドーナツ",
+      "jewels": 30,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/donut.png=w480-h480"
+    },
+    {
+      "slug": "six_seven",
+      "name": "67",
+      "jewels": 67,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/six_seven.png=w480-h480"
+    },
+    {
+      "slug": "gg_hamster",
+      "name": "GG ハムスター",
+      "jewels": 77,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/gg_hamster.png=w480-h480"
+    },
+    {
+      "slug": "clock_it",
+      "name": "「Clock it」",
+      "jewels": 80,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/clock_it.png=w480-h480"
+    },
+    {
+      "slug": "tea_money",
+      "name": "お茶代",
+      "jewels": 90,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/tea_money.png=w480-h480"
+    },
+    {
+      "slug": "",
+      "name": "アルゼンチン",
+      "jewels": 98,
+      "image": ""
+    },
+    {
+      "slug": "",
+      "name": "イングランド",
+      "jewels": 98,
+      "image": ""
+    },
+    {
+      "slug": "",
+      "name": "スペイン",
+      "jewels": 98,
+      "image": ""
+    },
+    {
+      "slug": "",
+      "name": "フランス",
+      "jewels": 98,
+      "image": ""
+    },
+    {
+      "slug": "microphone",
+      "name": "マイク",
+      "jewels": 100,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/microphone.png=w480-h480"
+    },
+    {
+      "slug": "ramen_jp",
+      "name": "ラーメン",
+      "jewels": 100,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/ramen_jp.png=w480-h480"
+    },
+    {
+      "slug": "gg",
+      "name": "炎に包まれた GG",
+      "jewels": 120,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/gg.png=w480-h480"
+    },
+    {
+      "slug": "numaru",
+      "name": "沼る",
+      "jewels": 120,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/numaru.png=w480-h480"
+    },
+    {
+      "slug": "waiting",
+      "name": "待ってます",
+      "jewels": 120,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/waiting.png=w480-h480"
+    },
+    {
+      "slug": "yoshiyoshi",
+      "name": "よしよし",
+      "jewels": 120,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/yoshiyoshi.png=w480-h480"
+    },
+    {
+      "slug": "kami",
+      "name": "神",
+      "jewels": 150,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/kami.png=w480-h480"
+    },
+    {
+      "slug": "salmon_nigiri",
+      "name": "すし",
+      "jewels": 200,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/salmon_nigiri.png=w480-h480"
+    },
+    {
+      "slug": "sunshine",
+      "name": "サンシャイン",
+      "jewels": 200,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/sunshine.png=w480-h480"
+    },
+    {
+      "slug": "clapping_seal",
+      "name": "拍手しているアザラシ",
+      "jewels": 250,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/clapping_seal.png=w480-h480"
+    },
+    {
+      "slug": "cream_soda",
+      "name": "クリームソーダ",
+      "jewels": 250,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/cream_soda.png=w480-h480"
+    },
+    {
+      "slug": "disco_ball",
+      "name": "笑顔のディスコ",
+      "jewels": 250,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/disco_ball.png=w480-h480"
+    },
+    {
+      "slug": "fired_up",
+      "name": "やる気満々",
+      "jewels": 250,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/fired_up.png=w480-h480"
+    },
+    {
+      "slug": "red_card",
+      "name": "レッドカード",
+      "jewels": 250,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/red_card.png=w480-h480"
+    },
+    {
+      "slug": "shaved_ice",
+      "name": "かき氷",
+      "jewels": 250,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/shaved_ice.png=w480-h480"
+    },
+    {
+      "slug": "girl_power",
+      "name": "ガールズパワー",
+      "jewels": 300,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/girl_power.png=w480-h480"
+    },
+    {
+      "slug": "hand_heart",
+      "name": "指ハート",
+      "jewels": 300,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/hand_heart.png=w480-h480"
+    },
+    {
+      "slug": "tanghulu",
+      "name": "タンフル",
+      "jewels": 300,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/tanghulu.png=w480-h480"
+    },
+    {
+      "slug": "kanpai",
+      "name": "かんぱい",
+      "jewels": 320,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/kanpai.png=w480-h480"
+    },
+    {
+      "slug": "konkon",
+      "name": "こんこん",
+      "jewels": 320,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/konkon.png=w480-h480"
+    },
+    {
+      "slug": "saiko_kayo",
+      "name": "最高かよ",
+      "jewels": 320,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/saiko_kayo.png=w480-h480"
+    },
+    {
+      "slug": "",
+      "name": "wwwww",
+      "jewels": 320,
+      "image": ""
+    },
+    {
+      "slug": "",
+      "name": "尊い",
+      "jewels": 320,
+      "image": ""
+    },
+    {
+      "slug": "finger_heart",
+      "name": "指ハート",
+      "jewels": 350,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/finger_heart.png=w480-h480"
+    },
+    {
+      "slug": "",
+      "name": "GG プラネット",
+      "jewels": 380,
+      "image": ""
+    },
+    {
+      "slug": "",
+      "name": "NF!",
+      "jewels": 380,
+      "image": ""
+    },
+    {
+      "slug": "fortune_cookie",
+      "name": "フォーチュン クッキー",
+      "jewels": 380,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/fortune_cookie.png=w480-h480"
+    },
+    {
+      "slug": "goodwork_jp",
+      "name": "おつかれさまです",
+      "jewels": 400,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/goodwork_jp.png=w480-h480"
+    },
+    {
+      "slug": "naisu",
+      "name": "ナイス",
+      "jewels": 400,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/naisu.png=w480-h480"
+    },
+    {
+      "slug": "blowfish",
+      "name": "フグ",
+      "jewels": 450,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/blowfish.png=w480-h480"
+    },
+    {
+      "slug": "butterfly",
+      "name": "蝶",
+      "jewels": 450,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/butterfly.png=w480-h480"
+    },
+    {
+      "slug": "bear_bread",
+      "name": "クマのパン",
+      "jewels": 500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/bear_bread.png=w480-h480"
+    },
+    {
+      "slug": "omedetou",
+      "name": "おめでとう",
+      "jewels": 500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/omedetou.png=w480-h480"
+    },
+    {
+      "slug": "power_potion",
+      "name": "パワー ポーション",
+      "jewels": 500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/power_potion.png=w480-h480"
+    },
+    {
+      "slug": "pudding_cat",
+      "name": "プリンの猫",
+      "jewels": 500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/pudding_cat.png=w480-h480"
+    },
+    {
+      "slug": "soccer_trophy",
+      "name": "サッカーのトロフィー",
+      "jewels": 500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/soccer_trophy.png=w480-h480"
+    },
+    {
+      "slug": "takoyaki",
+      "name": "たこ焼きをどうぞ",
+      "jewels": 500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/takoyaki.png=w480-h480"
+    },
+    {
+      "slug": "tulips",
+      "name": "チューリップ",
+      "jewels": 500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/tulips.png=w480-h480"
+    },
+    {
+      "slug": "watermelon",
+      "name": "スイカ",
+      "jewels": 500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/watermelon.png=w480-h480"
+    },
+    {
+      "slug": "",
+      "name": "ハートのトッピング",
+      "jewels": 500,
+      "image": ""
+    },
+    {
+      "slug": "shopping_cart",
+      "name": "ショッピング カート",
+      "jewels": 550,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/shopping_cart.png=w480-h480"
+    },
+    {
+      "slug": "crying_hamster",
+      "name": "泣いているハムスター",
+      "jewels": 600,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/crying_hamster.png=w480-h480"
+    },
+    {
+      "slug": "mic_drop",
+      "name": "マイクを落とす",
+      "jewels": 600,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/mic_drop.png=w480-h480"
+    },
+    {
+      "slug": "picnic_basket",
+      "name": "ピクニック バスケット",
+      "jewels": 600,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/picnic_basket.png=w480-h480"
+    },
+    {
+      "slug": "",
+      "name": "謎のギフトボックス",
+      "jewels": 650,
+      "image": ""
+    },
+    {
+      "slug": "pug_nap",
+      "name": "昼寝",
+      "jewels": 680,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/pug_nap.png=w480-h480"
+    },
+    {
+      "slug": "island",
+      "name": "島",
+      "jewels": 700,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/island.png=w480-h480"
+    },
+    {
+      "slug": "let_em_cook",
+      "name": "Let em cook",
+      "jewels": 750,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/let_em_cook.png=w480-h480"
+    },
+    {
+      "slug": "gg_keys",
+      "name": "GG キー",
+      "jewels": 800,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/gg_keys.png=w480-h480"
+    },
+    {
+      "slug": "husky",
+      "name": "ハスキー",
+      "jewels": 800,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/husky.png=w480-h480"
+    },
+    {
+      "slug": "ramen_bowl",
+      "name": "ラーメンのどんぶり",
+      "jewels": 900,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/ramen_bowl.png=w480-h480"
+    },
+    {
+      "slug": "",
+      "name": "アヒルの子",
+      "jewels": 900,
+      "image": ""
+    },
+    {
+      "slug": "air_travel",
+      "name": "空の旅",
+      "jewels": 1000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/air_travel.png=w480-h480"
+    },
+    {
+      "slug": "corgi",
+      "name": "コーギー",
+      "jewels": 1000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/corgi.png=w480-h480"
+    },
+    {
+      "slug": "goat_trophy",
+      "name": "ヤギのトロフィー",
+      "jewels": 1000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/goat_trophy.png=w480-h480"
+    },
+    {
+      "slug": "guitar",
+      "name": "ギター",
+      "jewels": 1000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/guitar.png=w480-h480"
+    },
+    {
+      "slug": "loot_box",
+      "name": "ルートボックス",
+      "jewels": 1000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/loot_box.png=w480-h480"
+    },
+    {
+      "slug": "party_pigeon",
+      "name": "パーティーピジョン",
+      "jewels": 1000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/party_pigeon.png=w480-h480"
+    },
+    {
+      "slug": "",
+      "name": "トロフィー(金)",
+      "jewels": 1000,
+      "image": ""
+    },
+    {
+      "slug": "",
+      "name": "ヤバー",
+      "jewels": 1000,
+      "image": ""
+    },
+    {
+      "slug": "sand_castle",
+      "name": "砂の城",
+      "jewels": 1200,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/sand_castle.png=w480-h480"
+    },
+    {
+      "slug": "bumblebee",
+      "name": "マルハナバチ",
+      "jewels": 1250,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/bumblebee.png=w480-h480"
+    },
+    {
+      "slug": "game_trophy",
+      "name": "ゲームのトロフィー",
+      "jewels": 1500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/game_trophy.png=w480-h480"
+    },
+    {
+      "slug": "tube_dancer",
+      "name": "チューブ ダンサー",
+      "jewels": 1500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/tube_dancer.png=w480-h480"
+    },
+    {
+      "slug": "",
+      "name": "ハート形のしゃぼん玉",
+      "jewels": 1500,
+      "image": ""
+    },
+    {
+      "slug": "spill_the_tea",
+      "name": "紅茶をこぼす",
+      "jewels": 1600,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/spill_the_tea.png=w480-h480"
+    },
+    {
+      "slug": "maneki_neko",
+      "name": "招き猫",
+      "jewels": 2000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/maneki_neko.png=w480-h480"
+    },
+    {
+      "slug": "beach_dog",
+      "name": "ビーチの犬",
+      "jewels": 3000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/beach_dog.png=w480-h480"
+    },
+    {
+      "slug": "headphones",
+      "name": "ヘッドフォン",
+      "jewels": 3600,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/headphones.png=w480-h480"
+    },
+    {
+      "slug": "hound",
+      "name": "ハウンド",
+      "jewels": 3800,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/hound.png=w480-h480"
+    },
+    {
+      "slug": "biscuit_tin",
+      "name": "ビスケットの缶",
+      "jewels": 5000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/biscuit_tin.png=w480-h480"
+    },
+    {
+      "slug": "sushi",
+      "name": "寿司",
+      "jewels": 5500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/sushi.png=w480-h480"
+    },
+    {
+      "slug": "hotpot",
+      "name": "鍋料理",
+      "jewels": 6800,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/hotpot.png=w480-h480"
+    },
+    {
+      "slug": "",
+      "name": "やったね",
+      "jewels": 7000,
+      "image": ""
+    },
+    {
+      "slug": "",
+      "name": "ロックスター",
+      "jewels": 7800,
+      "image": ""
+    },
+    {
+      "slug": "sports_car",
+      "name": "スポーツカー",
+      "jewels": 9500,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/sports_car.png=w480-h480"
+    },
+    {
+      "slug": "limo",
+      "name": "リムジン",
+      "jewels": 10000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/limo.png=w480-h480"
+    },
+    {
+      "slug": "trifle_smash",
+      "name": "トライフル スマッシュ",
+      "jewels": 10000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/trifle_smash.png=w480-h480"
+    },
+    {
+      "slug": "castle",
+      "name": "お城",
+      "jewels": 18000,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/castle.png=w480-h480"
+    },
+    {
+      "slug": "apple",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/apple.png=w480-h480"
+    },
+    {
+      "slug": "axolotl",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/axolotl.png=w480-h480"
+    },
+    {
+      "slug": "baseball",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/baseball.png=w480-h480"
+    },
+    {
+      "slug": "basketball",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/basketball.png=w480-h480"
+    },
+    {
+      "slug": "bear",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/bear.png=w480-h480"
+    },
+    {
+      "slug": "bee",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/bee.png=w480-h480"
+    },
+    {
+      "slug": "bird",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/bird.png=w480-h480"
+    },
+    {
+      "slug": "cake",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/cake.png=w480-h480"
+    },
+    {
+      "slug": "cheer",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/cheer.png=w480-h480"
+    },
+    {
+      "slug": "churro",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/churro.png=w480-h480"
+    },
+    {
+      "slug": "clutch",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/clutch.png=w480-h480"
+    },
+    {
+      "slug": "coffee",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/coffee.png=w480-h480"
+    },
+    {
+      "slug": "controller",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/controller.png=w480-h480"
+    },
+    {
+      "slug": "dragon",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/dragon.png=w480-h480"
+    },
+    {
+      "slug": "eagle",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/eagle.png=w480-h480"
+    },
+    {
+      "slug": "flex",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/flex.png=w480-h480"
+    },
+    {
+      "slug": "football",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/football.png=w480-h480"
+    },
+    {
+      "slug": "fox",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/fox.png=w480-h480"
+    },
+    {
+      "slug": "high_five",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/high_five.png=w480-h480"
+    },
+    {
+      "slug": "joystick",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/joystick.png=w480-h480"
+    },
+    {
+      "slug": "lantern",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/lantern.png=w480-h480"
+    },
+    {
+      "slug": "latte",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/latte.png=w480-h480"
+    },
+    {
+      "slug": "owl",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/owl.png=w480-h480"
+    },
+    {
+      "slug": "pie",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/pie.png=w480-h480"
+    },
+    {
+      "slug": "pinata",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/pinata.png=w480-h480"
+    },
+    {
+      "slug": "seagull",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/seagull.png=w480-h480"
+    },
+    {
+      "slug": "shell",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/shell.png=w480-h480"
+    },
+    {
+      "slug": "stadium",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/stadium.png=w480-h480"
+    },
+    {
+      "slug": "thank_you",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/thank_you.png=w480-h480"
+    },
+    {
+      "slug": "tiger",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/tiger.png=w480-h480"
+    },
+    {
+      "slug": "torch",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/torch.png=w480-h480"
+    },
+    {
+      "slug": "turtle",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/turtle.png=w480-h480"
+    },
+    {
+      "slug": "umbrella",
+      "name": "",
+      "jewels": 0,
+      "image": "https://www.gstatic.com/youtube/img/pdg/gift/assets/umbrella.png=w480-h480"
+    }
+  ]
+}
